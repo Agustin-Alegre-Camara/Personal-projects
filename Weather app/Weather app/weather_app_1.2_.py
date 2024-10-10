@@ -323,7 +323,7 @@ class Weather_App(customtkinter.CTk):
         about_me_textbox.insert("0.0", my_text)
         about_me_textbox.grid(row=1, column=0,columnspan=2, pady=12, padx=10, sticky='nwes')
 
-    # Definitonn of the dinamic background when the app is launched  
+    # Definition of the dynamic background when the app is launched  
     global count
     count = -1
     def dinamic_bg(self):
