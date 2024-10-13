@@ -1,3 +1,0 @@
-admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 December 2023, 13 Jan 2024, Yes
-admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 December 2023, 13 Jan 2024, Yes
-thompson, paperwork, finish paperwork before weekend, 10 december 2023, 12 december 2024, No
